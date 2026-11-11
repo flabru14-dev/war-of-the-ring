@@ -1,0 +1,119 @@
+<order>
+    <details>
+        <quantity>18</quantity>
+        <bracket>18</bracket>
+        <stock>(S33) Superior Smooth</stock>
+        <foil>true</foil>
+    </details>
+    <fronts>
+        <card>
+            <id>1_NrKEJC2FLTO8RRPZ5GT5Qd4xvquVrN1</id>
+            <slots>0</slots>
+            <name>Sauron, the Dark Lord (Borderless Kieran Yanner).jpg</name>
+            <query>sauron dark lord</query>
+        </card>
+        <card>
+            <id>1yOX-gLVhB0ZQjyowOObMJVWXQbAyxKG8</id>
+            <slots>1</slots>
+            <name>Bard, King of Dale (Xabi Gaztelua) [HOB] {144}.png</name>
+            <query>bard king of dale</query>
+        </card>
+        <card>
+            <id>1mW2PHSLK47CdDA9ZOFjk9g7jEiKGZ_A9</id>
+            <slots>2</slots>
+            <name>Aragorn, the Uniter {192}.jpg</name>
+            <query>aragorn uniter</query>
+        </card>
+        <card>
+            <id>1Jxly1Mnjx3mUrw_ad7I0CDJm0YqNG9gb</id>
+            <slots>3</slots>
+            <name>The Great Goblin (Miklos Ligeti) [HOB] {158}.png</name>
+            <query>great goblin</query>
+        </card>
+        <card>
+            <id>1dbqU4-KgHdHs3OQp-BRUi0a3iGpFzymG</id>
+            <slots>4</slots>
+            <name>Aragorn, King of Gondor (Yongjae Choi) [LTC] {5}.jpg</name>
+            <query>aragorn king of gondor</query>
+        </card>
+        <card>
+            <id>1WDtLDtU8J0IGVOgqBxp4y3zkcX9dUmah</id>
+            <slots>5</slots>
+            <name>Saruman, the White Hand (LTC 0091 - borderless).png</name>
+            <query>saruman white hand</query>
+        </card>
+        <card>
+            <id>1GP-qUJxqtTFD4CnTcZTv1go42s7J6Ev1</id>
+            <slots>6</slots>
+            <name>Eowyn Shieldmaiden (LTC 0081 - borderless).png</name>
+            <query>eowyn shieldmaiden</query>
+        </card>
+        <card>
+            <id>1fUCuO6IIXXjTp2UlkNWGeQ5kw1feA7Jb</id>
+            <slots>7</slots>
+            <name>Frodo, Adventurous Hobbit (Axel Sauerwald) [LTC] {2}.png</name>
+            <query>frodo adventurous hobbit</query>
+        </card>
+        <card>
+            <id>1AC5gJ9nBa9_v_ZhPPDKjdF7foCU1v0Yh</id>
+            <slots>8</slots>
+            <name>Sam, Loyal Attendant (Campbell White) [LTC] {7}.png</name>
+            <query>sam loyal attendant</query>
+        </card>
+        <card>
+            <id>1c3f29zSglNdvdfkYiuIvi5OSKwaNv_9G</id>
+            <slots>9</slots>
+            <name>Bard, Heir of Girion (Narendra Bintara Adi) [HOC] {101}.png</name>
+            <query>bard heir of girion</query>
+        </card>
+        <card>
+            <id>1VrURKR6LM3JT6LAJVKIn2a91vuVgKZJI</id>
+            <slots>10</slots>
+            <name>Bard the Bowman (Miklos Ligeti) [HOB] {145}.png</name>
+            <query>bard bowman</query>
+        </card>
+        <card>
+            <id>1dW6YAyXMEpHbvMUQUnkX0MugvuSn9MTu</id>
+            <slots>11</slots>
+            <name>The Council of Four (Midjourney).jpg</name>
+            <query>council of four</query>
+        </card>
+        <card>
+            <id>1ytnkI4bLWpCpIYRshmHvnUq0WWF-ar4Q</id>
+            <slots>12</slots>
+            <name>Dáin of the Ancient Halls (Manuel Castañón) [HOC] {104}.png</name>
+            <query>dáin of ancient halls</query>
+        </card>
+        <card>
+            <id>1FoxHjwGm4JyxOTmVGJQqTd-mtP1m2qEM</id>
+            <slots>13</slots>
+            <name>Thorin, Mountain-king (Javier Charro) [HOB] {114}.png</name>
+            <query>thorin mountain king</query>
+        </card>
+        <card>
+            <id>1hwo3OvFT8mq-JwXkJhmroJ7g0FnaObvG</id>
+            <slots>14</slots>
+            <name>Witch-king of Angmar {114} (Anato Finnstark).png</name>
+            <query>witch king of angmar</query>
+        </card>
+        <card>
+            <id>1Y8yxbhYhlW57636Zi7_1i2ubekOZ40NW</id>
+            <slots>15</slots>
+            <name>Ygra, Eater of All.png</name>
+            <query>ygra eater of all</query>
+        </card>
+        <card>
+            <id>1oJvLAEyZQAOytn943PVs8l7jWCx2cFEY</id>
+            <slots>16</slots>
+            <name>Caduceus, Staff of Hermes [ACR] {155} (Evan Shipard) (opt2).png</name>
+            <query>caduceus staff of hermes</query>
+        </card>
+        <card>
+            <id>1RyFPQLQm_JxLPQx2TF5MRnk3XDZ8zVz6</id>
+            <slots>17</slots>
+            <name>Chronicle of Victory.png</name>
+            <query>chronicle of victory</query>
+        </card>
+    </fronts>
+    <cardback>1Q_LK064SuJhF1V6WT48g60oAqcMSHHAk</cardback>
+</order>
